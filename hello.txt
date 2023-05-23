@@ -3,5 +3,7 @@
 :wq:qw:wq::wq;wq:wq:q;wq;ZZ:wq
 ssssssssssssssssssssssss
 ssssssssssssssssssssssss
+<<<<<<< HEAD
 master test
-
+hot-fix test
+>>>>>>> hot-fix
